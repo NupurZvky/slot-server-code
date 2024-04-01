@@ -2,7 +2,7 @@
   "name": "slot-server-code",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "slot-framework.module.ts",
   "scripts": {
     "test": "exit 0"
   },
