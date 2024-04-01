@@ -1,0 +1,22 @@
+{
+  "name": "slot-server-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NupurZvky/slot-server-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NupurZvky/slot-server-code/issues"
+  },
+  "homepage": "https://github.com/NupurZvky/slot-server-code#readme",
+  "publishConfig": {
+    "Nupur_ZVKY:registry": "https://npm.pkg.github.com"
+  }
+}
