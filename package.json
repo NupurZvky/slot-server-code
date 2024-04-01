@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/NupurZvky/slot-server-code#readme",
   "publishConfig": {
-    "Nupur_ZVKY:registry": "https://npm.pkg.github.com"
+    "Nupur_ZVKY:registry": "https://github.com/NupurZvky/slot-server-code.git"
   }
 }
