@@ -18,5 +18,8 @@
   "homepage": "https://github.com/NupurZvky/slot-server-code#readme",
   "publishConfig": {
     "NupurZvky:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "@angular/core": "^16.0.0"
   }
 }
