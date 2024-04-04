@@ -20,6 +20,7 @@
     "NupurZvky:registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
+    "@angular/common": "^16.0.0",
     "@angular/core": "^16.0.0"
   }
 }
